@@ -1,0 +1,16 @@
+{
+  "_comment": "Copy this file to metadata.json in this same folder and fill in real entries for your files. This example file itself is ignored by the ingestion script.",
+
+  "example_standard.pdf": {
+    "title": "IS XXXX - Replace With Real Standard Title",
+    "source": "Bureau of Indian Standards",
+    "url": "https://bis.gov.in/replace-with-real-url",
+    "category": "Product Standard"
+  },
+  "example_certification_scheme.pdf": {
+    "title": "Replace With Real Certification Scheme Title",
+    "source": "Bureau of Indian Standards",
+    "url": "https://bis.gov.in/replace-with-real-url",
+    "category": "Certification"
+  }
+}
